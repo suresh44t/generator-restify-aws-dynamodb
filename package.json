@@ -1,0 +1,53 @@
+{
+  "name": "generator-restify-aws-dynamodb",
+  "version": "0.1.1",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tttmaximttt/generator-restify-aws-dynamodb.git"
+  },
+  "author": {
+    "name": "Maksym Radko",
+    "email": "tttmaximttt@gmail.com",
+    "url": "https://github.com/tttmaximttt"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tttmaximttt/generator-restify-aws-dynamodb/issues"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "REST",
+    "API",
+    "restify",
+    "express",
+    "cluster",
+    "winston",
+    "config",
+    "json5",
+    "mocha",
+    "supertest",
+    "workers",
+    "logging",
+    "server",
+    "web",
+    "backend",
+    "amazon",
+    "aws",
+    "dynamodb"
+  ],
+  "homepage": "https://github.com/tttmaximttt/generator-restify-aws-dynamodb#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "underscore": "^1.8.3",
+    "yeoman-generator": "^0.22.5",
+    "yosay": "^1.1.0"
+  }
+}
